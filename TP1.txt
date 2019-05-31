@@ -1,0 +1,29 @@
+Linguagem de Programação IV Noturno - TP1
+
+Entrega: 03/06/2019
+Grupo: até 3 alunos
+
+Usando o "Basic Template" em 
+https://www.w3schools.com/bootstrap4/default.asp
+
+1) Desenvolva Home Page utilizando no mínimo os seguintes recursos do Bootstrap 4:
+
+Typograph
+Colors
+Images - Rounded Corners
+Table - Responsive
+Button Groups
+List Groups
+Card (com image, title, text and links)
+Dropdown with Divider
+Forms
+Carousel
+Modal
+
+Glyphicon Components
+https://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
+
+Inserir mapa do google com a localização da empresa.
+
+2) Desenvolva CRUD de manutenção de um cadastro em PHP e mysql (inserir, excluir, alterar e selecionar).
+   O cadastro deve ter no mínimo 6 (seis) campos com validações dos dados no lado cliente e no servidor.
